@@ -1,6 +1,6 @@
 function vibrate(){
    if(!("vibrate" in navigator)){
-     alert("Vibrate not supported!");
+     alert("Call Arun");
      return;
    }
    navigator.vibrate(5500);
